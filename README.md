@@ -62,7 +62,7 @@ This repository contains all **design artifacts** related to the **Signum Token 
 1. **Clone the Repo**
 
    ```bash
-   git clone https://github.com/Phylax-IAM/Aegis.API-Gateway.Design.git
+   git clone https://github.com/Phylax-IAM/Signum.Token-Service.Design.git
    ```
 
 2. **Explore the Design Docs**
