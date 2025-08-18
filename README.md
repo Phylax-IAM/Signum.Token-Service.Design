@@ -1,7 +1,7 @@
 # Signum Token-Service Design Repository
 
 <p align="center">
-    <img src="./diagrams/logo/Signum Token Service Logo.jpeg" alt="Signum Token Service Logo"/>
+    <img src="./diagrams/logo/Signum Token Service Logo.png" alt="Signum Token Service Logo"/>
 </p>
 
 ---
