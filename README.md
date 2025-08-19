@@ -28,8 +28,6 @@ This repository contains all **design artifacts** related to the **Signum Token 
 ├── diagrams/                                                 
 |   └── logo/                                    
 │       ├── Signum Token Service Logo.jpeg
-├── references/                                   
-|   └── research.md
 ├── specs/                                   
 │   ├── id-spec.yaml                                 
 |   └── token-spec.yaml
