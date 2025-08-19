@@ -25,29 +25,14 @@ This repository contains all **design artifacts** related to the **Signum Token 
 
 ```text
 /
-├── architecture/                                   
-│   ├── component-diagram.md                               
-│   ├── high-level-diagram.md                                     
-|   └── sequence-diagram.md          
-├── decisions/                                            
-|   └── ADR-001-routing.md
-├── diagrams/                                   
-│   ├── draw.io/                               
-│   |   ├── component-diagram.dio               
-│   |   ├── high-level.dio              
-│   |   ├── sequence-diagram.dio                 
-|   ├── img/                               
-│   |   ├── component-diagram.png               
-│   |   ├── high-level.png              
-│   |   ├── sequence-diagram.png                 
+├── diagrams/                                                 
 |   └── logo/                                    
-│       ├── Aegis API Gateway Logo Short.jpeg
-│       └── Aegis API Gateway Logo.png
+│       ├── Signum Token Service Logo.jpeg
 ├── references/                                   
 |   └── research.md
 ├── specs/                                   
-│   ├── config-spec.yaml                                 
-|   └── feature-spec.yaml
+│   ├── id-spec.yaml                                 
+|   └── token-spec.yaml
 ├── CHANGELOG.md                                  
 ├── functional-requirements.md                     
 ├── LICENSE                        
