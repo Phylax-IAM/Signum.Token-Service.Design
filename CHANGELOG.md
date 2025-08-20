@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Phylax-IAM/Signum.Token-Service.Design/compare/v1.0.0...v1.1.0) (2025-08-20)
+
+
+### Features
+
+* added grpc-api-overview functional-requirements and er diagram ([e76ff55](https://github.com/Phylax-IAM/Signum.Token-Service.Design/commit/e76ff559c2c8db52eef85d4f4ab6da384d5a31ea))
+
 ## 1.0.0 (2025-08-19)
 
 
