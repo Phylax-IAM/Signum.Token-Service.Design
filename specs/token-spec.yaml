@@ -1,0 +1,42 @@
+# Token Specification for Signum Token Service
+# Version: 1.0 (MVP)
+# All ID fields use UUIDv7 for time-ordered, globally unique identifiers.
+
+tokenSpecVersion: "1.0"
+
+token:
+  id:
+    type: UUIDv7       # Primary key of the token
+    description: Unique identifier for the token (time-ordered)
+    example: "018fa3d1-8ef1-7c28-bc18-8c2e7d87961a"
+
+  userId:
+    type: UUIDv7
+    description: ID of the user that owns this token
+
+  tenantId:
+    type: UUIDv7
+    description: Tenant to which the user belongs
+
+  deviceId:
+    type: UUIDv7
+    description: Server-issued Device ID that this token is bound to
+
+  tokenType:
+    type: string
+    enum: [ACCESS, REFRESH]
+    description: Type of this token
+
+  issuedAt:
+    type: ISO-8601 timestamp
+    description: Timestamp when the token was issued
+
+  expiresAt:
+    type: ISO-8601 timestamp
+    description: Timestamp when the token should expire
+
+# Optional section for metadata (future extension)
+# metadata:
+#   ipAddress: string
+#   userAgent: string
+#   clientId: UUIDv7
