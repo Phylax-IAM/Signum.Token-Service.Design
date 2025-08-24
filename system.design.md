@@ -33,6 +33,7 @@ The Signum Token Service is responsible for issuing, validating, refreshing, and
 ### ER Diagram Reference
 
 - [Signum Database Model v1](./diagrams/er/img/signum-database-model.v1.png)
+- [Signum Database Model v2](./diagrams/er/img/signum-database-model.v2.png)
 
 ## 5. System Architecture
 
