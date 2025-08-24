@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.3](https://github.com/Phylax-IAM/Signum.Token-Service.Design/compare/v1.1.2...v1.1.3) (2025-08-24)
+
+
+### Bug Fixes
+
+* fixed the user active and user revoked token ([b0f5107](https://github.com/Phylax-IAM/Signum.Token-Service.Design/commit/b0f5107ee0a926d731329288f3ce282b47d8e0b7))
+
 ## [1.1.2](https://github.com/Phylax-IAM/Signum.Token-Service.Design/compare/v1.1.1...v1.1.2) (2025-08-24)
 
 
