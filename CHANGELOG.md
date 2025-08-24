@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/Phylax-IAM/Signum.Token-Service.Design/compare/v1.1.1...v1.1.2) (2025-08-24)
+
+
+### Bug Fixes
+
+* added the v2 er image to system.design file ([d7026a5](https://github.com/Phylax-IAM/Signum.Token-Service.Design/commit/d7026a5fc4a6ff7f6adfc7b9fa0e23e072427a97))
+
 ## [1.1.1](https://github.com/Phylax-IAM/Signum.Token-Service.Design/compare/v1.1.0...v1.1.1) (2025-08-24)
 
 
