@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/Phylax-IAM/Signum.Token-Service.Design/compare/v1.1.0...v1.1.1) (2025-08-24)
+
+
+### Bug Fixes
+
+* added the fixed naming and extra column for user_active and revoked token tables ([356a8a4](https://github.com/Phylax-IAM/Signum.Token-Service.Design/commit/356a8a49403cdbe584c43544c40f6a5f966e1c36))
+
 ## [1.1.0](https://github.com/Phylax-IAM/Signum.Token-Service.Design/compare/v1.0.0...v1.1.0) (2025-08-20)
 
 
